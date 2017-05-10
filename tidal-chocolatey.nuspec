@@ -29,9 +29,8 @@
     <!-- =============================== -->      
 
     <dependencies>
-      <!--<dependency id="ghc" version="8.0.2" />
-      <dependency id="mingw" />
-      <dependency id="atom" />-->
+      <dependency id="haskell-stack" />
+      <dependency id="atom" />
     </dependencies>
   </metadata>
   <files>
